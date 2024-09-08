@@ -2,7 +2,7 @@ const http = require("http")
 const fs = require("fs")
 
 // create a prot for the server
-const port = 4000
+const port = 8080
 const localhost = "127.0.0.1"
 
 // create a server using the HTTP module
